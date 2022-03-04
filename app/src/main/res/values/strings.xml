@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="question_1">2 + 2 = 4</string>
+    <string name="question_2">2 * 2 = 4</string>
+    <string name="question_3">2 / 2 = 1</string>
+    <string name="question_4">2 + 2 = 7</string>
+    <string name="question_5">2 – 2 = 42</string>
+    <string name="true_button">true</string>
+    <string name="false_button">false</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="next_button_text">Next</string>
+    <string name="prev_button_text">prev</string>
+    <string name="desc_prev">Previous button</string>
+    <string name="desc_next">Next button</string>
+    <string name="restart_button_text">restart</string>
+</resources>
