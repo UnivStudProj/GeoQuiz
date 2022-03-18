@@ -51,6 +51,14 @@
             android:contentDescription="@string/desc_next"/>
 
         <Button
+            android:id="@+id/cheat_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center"
+            android:text="@string/cheat_button"
+            android:layout_margin="80dp"/>
+
+        <Button
             android:id="@+id/restart_button"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
